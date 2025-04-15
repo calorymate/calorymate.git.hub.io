@@ -1,2 +1,13 @@
-# calorymate.git.hub.io　
-# walking
+<!doctype html>
+<html lang="ja">
+ <head>
+   calory mate
+ </head>
+  <title> calory mate <title>
+  <body>
+  #こんにちは
+<p>calorymate.git.hub.io</p>
+  </body>
+  </html>
+  
+  
